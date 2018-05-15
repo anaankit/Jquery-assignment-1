@@ -1,0 +1,43 @@
+:root{
+
+	font-size: 16px;
+}
+
+
+body{
+	margin: 0px;
+
+}
+
+
+
+.bar{
+
+	background:#C0C0C0;
+	width: 100vw;
+	/*height:8vh;*/
+	opacity: 0.5;
+	padding: 1%;
+	display:flex;
+	flex-direction: column;
+
+}
+
+
+
+
+.headings{
+	font-size: 1.3rem;
+	color:black;
+	font-weight:100	;	
+	padding: 0% 2% 0% 2%;
+
+}
+
+
+.disabled{
+
+		padding: 0% 2% 0% 2%;
+
+
+}
